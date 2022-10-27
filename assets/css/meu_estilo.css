@@ -102,11 +102,9 @@ u{
     border-radius: 100px;
     padding: 2px 5px;
 }
-.btInsta2{
-    height: 300px;
-    width: 300px;
-    border: #9920a3 solid 5px;
-    margin: 10px;
-    background-color: #9920a3 ;
-    cursor: pointer;
+#rodape{
+    background-color: #8961b5;
+    height: 150px;
+    width: 1903px;
+    font-size: 30px;
 }
